@@ -1,6 +1,3 @@
-<div align="center">
-  <img height="280" src="https://media1.tenor.com/m/CzdMW7wnLn8AAAAC/coding.gif"  />
-</div>
 
 ###
 
