@@ -80,6 +80,7 @@
   <img src="https://cdn.simpleicons.org/canva/00C4CC" height="40" alt="canva logo"  />
 </div>
 
+
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
@@ -91,3 +92,5 @@
 </div>
 
 ###
+
+[![An image of @adhi1911's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adhi1911)](https://holopin.io/@adhi1911)
