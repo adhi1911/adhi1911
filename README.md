@@ -82,15 +82,14 @@
 
 
 ###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=adhi1911&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+  
+<!-- <h3 align="left">🔥   My Stats :</h3> -->
 
 ###
 
-[![An image of @adhi1911's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adhi1911)](https://holopin.io/@adhi1911)
+<!-- <div align="center"> -->
+<!--   <img src="https://streak-stats.demolab.com?user=adhi1911&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  /> -->
+<!-- </div> -->
+
+###
+
