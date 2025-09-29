@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/aaradhya-kulkarni-445074257/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://www.kaggle.com/aaradhyakulkarni">
+  <a href="https://www.kaggle.com/aaradhyakulkarni" target="_blank">
     <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" height="40" alt="Kaggle Profile">
   </a>
   <a href="https://discord.com/users/aaradhya3292" target="_blank">
